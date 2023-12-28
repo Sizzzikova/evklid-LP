@@ -1,0 +1,145 @@
+@media (max-width: 1800px) {
+  .footer__left {
+    margin-right: auto;
+  }
+}
+@media (max-width: 1600px) {
+.about__banner-content {
+  flex-direction: column;
+}
+.about__content {
+  flex-wrap: wrap;
+}
+.about__banner {
+  margin-bottom: 32px;
+  margin-right: 0;
+  width: 100%;
+  min-height: 640px;
+}
+.about__paragraph {
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+.about__btn {
+  align-self:normal;
+}
+.about_descr {
+  margin-bottom: 60px;
+  max-width: 96%;
+}
+.about__banner-content {
+  flex-direction: row;
+}
+.about__paragraph {
+  max-width: 800px;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+.about__btn {
+  align-self: center;
+}
+.about__item {
+  padding: 65px 150px 60px 77px;
+  max-width: 100%;
+}
+.about__item-descr {
+  align-self: center;
+}
+.about__img {
+  margin-right: 50px;
+  align-self: center;
+}
+.about__img-file {
+  width: 190px;
+}
+.about__h3 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+}
+}
+@media (max-width: 1400px) {
+.about__paragraph {
+  margin-right: 25px;
+}
+.questions {
+  margin-bottom: 80px;
+}
+.questions__list {
+  flex-direction: column;
+}
+.question__sub {
+  max-width: fit-content;
+}
+.questions__paragraph {
+  max-width: fit-content;
+}
+.footer__paragraph {
+  display: none;
+}
+.footer__center {
+  margin-right: 0;
+  max-width: 541px;
+}
+.footer__button {
+  padding: 19px 37px;
+}
+}
+@media (max-width: 1200px) {
+.container {
+  padding: 0px 50px;
+}
+.header {
+  margin-bottom: 40px;
+}
+.header__logo {
+  width: 150px;
+}
+.header__container {
+  padding: 26px 50px;
+}
+.header__list {
+  gap: 60px;
+  margin-right: 105px;
+}
+.hero {
+  margin-bottom: 35px;
+}
+.hero__content {
+  padding: 160px 77px;
+}
+.hero__title {
+  font-size: 60px;
+  font-style: normal;
+  line-height: normal;
+  max-width: 770px;
+  margin-bottom: 16px;
+}
+.hero__descr {
+  font-size: 20px;
+  max-width: 660px;
+  margin-bottom: 60px;
+}
+.about {
+  margin-bottom: 77px;
+}
+.about__paragraph {
+  max-width: 454px;
+}
+.stages {
+  margin-bottom: 80px;
+}
+.stages__left {
+  margin-right: 50px;
+}
+.stages__paragraph {
+  margin-bottom: 25px;
+  margin-right: auto;
+}
+.stages__right {
+  max-width: 437px;
+}
+.footer__left {
+  margin-right: auto;
+}
+}
